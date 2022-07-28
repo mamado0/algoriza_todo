@@ -1,4 +1,4 @@
-# Task Management App with Sqflit
+# Todo App with Sqflit
 Features:
 local notification,
 local database,
